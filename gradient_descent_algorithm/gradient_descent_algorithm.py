@@ -1,4 +1,3 @@
-
 # 📉 Gradient Descent Algorithm for Multivariable Optimization
 # Bu algoritma, çok değişkenli bir fonksiyonun minimumunu bulmak için yalnızca gradyanı kullanarak iteratif olarak çözüm üretir.
 
