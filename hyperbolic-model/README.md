@@ -43,11 +43,9 @@ This function measures the squared error between the actual and predicted values
 3. Minimize the error between predicted and actual values
 4. Return the best-fit parameters
 
-````
 
----
 
-```markdown
+
 # Hiperbolik Model ile Eğri Uydurma ve Tahmin
 
 Bu repoda, değişkenler arasında **hiperbolik ilişki** bulunan durumlarda kullanılmak üzere geliştirilen **hiperbolik modelin** bir uygulaması yer almaktadır.
