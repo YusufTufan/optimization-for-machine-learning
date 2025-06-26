@@ -85,12 +85,3 @@ BFGS, tam Hessian matrisini hesaplamadan çalışan bir **quasi-Newton yöntemid
    * Konum güncellenir: `x_{k+1} = x_k + α_k * p_k`
    * `s_k = x_{k+1} - x_k`, `y_k = ∇f_{k+1} - ∇f_k`
    * `H_k`, BFGS formülü ile güncellenir
-
-## 🧾 Gereksinimler
-
-* Python 3.x
-* NumPy
-
-## 👨‍💻 Geliştirici
-
-[Yusuf Tufan](https://github.com/YusufTufan)
