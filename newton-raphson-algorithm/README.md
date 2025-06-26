@@ -47,11 +47,6 @@ Where:
    * Solve: `xₖ₊₁ = xₖ - H⁻¹ ∇f(xₖ)`
 3. Return estimated minimum point `x`
 
-````
-
----
-
-```markdown
 # Kısıtsız Optimizasyon için Newton–Raphson Yöntemi
 
 Bu repoda, iki kere türevlenebilir fonksiyonların minimumunu bulmak için kullanılan ikinci dereceden bir yöntem olan **Newton–Raphson Algoritması** uygulanmaktadır.
