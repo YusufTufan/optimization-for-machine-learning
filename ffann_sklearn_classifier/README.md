@@ -73,4 +73,3 @@ Uygulamada `scikit-learn` kütüphanesinden `MLPClassifier` kullanılmıştır. 
 2. FFANN modeli istenilen parametrelerle başlatılır  
 3. Model etiketli verilerle eğitilir  
 4. Performans değerlendirmesi (doğruluk, karmaşıklık matrisi vb.) yapılır
-```
