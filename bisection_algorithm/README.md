@@ -85,6 +85,3 @@ Bu yaklaşım, optimizasyon problemini bir kök bulma problemine dönüştürür
 ## 👨‍💻 Geliştirici
 
 [Yusuf Tufan](https://github.com/YusufTufan)
-
-```
-
