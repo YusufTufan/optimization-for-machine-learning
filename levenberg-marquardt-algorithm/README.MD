@@ -50,9 +50,6 @@ Where:
    * Adjust `λ` based on error improvement
 3. Return optimized parameters `x`
 
-````
-
----
 
 # Doğrusal Olmayan En Küçük Kareler Optimizasyonu için Levenberg–Marquardt Algoritması
 
