@@ -54,7 +54,6 @@ Where:
 
 ---
 
-```markdown
 # Doğrusal Olmayan En Küçük Kareler Optimizasyonu için Levenberg–Marquardt Algoritması
 
 Bu repoda, **Levenberg–Marquardt (LM)** algoritmasının bir uygulaması yer almaktadır. Bu yöntem, doğrusal olmayan en küçük kareler problemlerini çözmek için yaygın olarak kullanılır.
