@@ -75,13 +75,3 @@ Bu yaklaşım, optimizasyon problemini bir kök bulma problemine dönüştürür
    * Eğer `f'(a) * f'(c) < 0` ise kök `[a, c]` içindedir
    * Aksi halde kök `[c, b]` içindedir
 5. Aralık yeterince küçülene kadar işlem tekrarlanır
-
-
-## 🧾 Gereksinimler
-
-* Python 3.x
-* NumPy (opsiyonel)
-
-## 👨‍💻 Geliştirici
-
-[Yusuf Tufan](https://github.com/YusufTufan)
