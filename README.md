@@ -47,56 +47,8 @@ Each folder contains:
 
 By studying these algorithms, you will gain a solid foundation in how numerical methods are applied in practice to train models, solve equations, and perform optimization in machine learning tasks.
 
-
-# Makine Öğrenmesi için Sayısal Optimizasyon Teknikleri
-
-Bu depo, makine öğrenmesi ve matematiksel modelleme alanında kullanılan **sayısal optimizasyon algoritmalarının** yapılandırılmış bir koleksiyonunu içerir. İçerikler, sayısal analiz derslerinin temel konularına dayanır ve şu alanlara odaklanır:
-
-- Kısıtsız optimizasyon  
-- Doğrusal olmayan denklemlerin çözümü  
-- Veriye model uydurma (eğri uydurma)  
-- Gradyan tabanlı ve türev gerektirmeyen arama yöntemleri
-
-## 📚 Genel Bakış
-
-**Sayısal optimizasyon**, analitik çözümlerin mümkün olmadığı durumlarda **iteratif** yaklaşımlarla en uygun sonucu bulmayı amaçlar. Bu teknikler:
-
-- Mühendislik sistemlerinde parametre ayarlama  
-- Makine öğrenmesinde model eğitimi  
-- Deneysel veri analizleri
-
-gibi birçok uygulamada temel rol oynar.
-
 ---
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📁 Klasör Yapısı ve Algoritmalar
-
-| Klasör Adı                              | Açıklama                                                                    |
-|----------------------------------------|-----------------------------------------------------------------------------|
-| `bisection_algorithm/`                 | Türev kökünden minimum arayan ikiye bölme yöntemi                          |
-| `broydon-fletcher-goldfarb-shanno-algorithm/` | Çok değişkenli optimizasyonda kullanılan BFGS yöntemi                      |
-| `conjugate_gradient_algorithm/`        | Fletcher-Reeves konjugat gradyan yöntemi                                   |
-| `davidon-fletcher-power-algorithm/`    | DFP yöntemi, Hessian matrisi yaklaşımlı                                   |
-| `exponential-model/`                   | Doğrusal olmayan üstel eğri uydurma modeli                                 |
-| `ffann_sklearn_classifier/`            | `sklearn` ile beslemeli yapay sinir ağı sınıflandırıcısı                   |
-| `golden_section_algorithm/`           | Altın oran yöntemi ile tek değişkenli minimum arama                        |
-| `gradient_descent_algorithm/`          | Klasik gradyan iniş yöntemi                                                |
-| `gs_steepest_descent_algorithm/`       | Altın oran ile birleştirilmiş en dik iniş yöntemi                         |
-| `hyperbolic-model/`                    | Hiperbolik fonksiyon ile eğri uydurma modeli                              |
-| `levenberg-marquardt-algorithm/`       | Doğrusal olmayan en küçük kareler için LM algoritması                      |
-| `levenbergmarquardt_classification.py` | LM yönteminin sınıflandırma uygulaması                                    |
-| `modified_newton_algorithm/`           | Kararlılaştırılmış Newton yöntemi                                          |
-| `newton-raphson-algorithm/`            | Newton–Raphson algoritması ile lokal minimum arama                        |
-| `polynomial_model/`                    | Polinomsal eğri uydurma modeli                                             |
-| `rbf_model/`                           | Radyal Tabanlı Fonksiyon (RBF) ile modelleme                               |
-
-Her klasörde:
-- İlgili algoritmanın Python kodu  
-- Hem İngilizce hem Türkçe detaylı açıklama içeren `README.md`  
-- (Bazı klasörlerde) örnek fonksiyonlar ve çağrımlar bulunur
-
----
-
-## 🧠 Öğrenme Amacı
-
-Bu algoritmaları inceleyerek, makine öğrenmesi, veri bilimi ve mühendislik uygulamalarında **sayısal yöntemlerin nasıl kullanıldığını** anlamış olacaksınız.
+Copyright (c) 2025 YusufTufan
